@@ -1,0 +1,23 @@
+body{
+  background-color: #fff4f8;
+}
+
+p{
+  margin: 4rem auto;
+  width: 50%;
+  font-family: sans-serif;
+}
+
+/*---------------------------------Classes----------------------------------*/
+
+.date{
+  color: rgb(24, 24, 24);
+  font-family: sans-serif;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.rant{
+  margin-top: 50px;
+  text-align: justify;
+}
